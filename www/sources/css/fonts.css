@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "nintend";
+    font-style: normal;
+    font-weight: 600;
+    src: url(typo/Nintend\ Bold.otf);
+}
+
+@font-face {
+    font-family: '8bit_wondernominal';
+    src: url('typo/retro/8-bit_wonder-webfont.woff2') format('woff2'), url('typo/retro/8-bit_wonder-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "dosis";
+    font-style: normal;
+    font-weight: 400;
+    src: url(typo/Dosis/Dosis-Regular.ttf) format(ttf);
+}
