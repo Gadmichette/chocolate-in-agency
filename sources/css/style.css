@@ -68,13 +68,18 @@ h1{
 
 #about>article{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
     width: 100%;
     border: 1px solid green;
+    height: 20vw;
 }
 
 #about img {
-    width: 100%;
-    height: auto;
+    object-fit:cover;
+    width:20vw;
+    border: solid 1px #CCC;
 }
 
 
